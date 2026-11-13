@@ -1,0 +1,16 @@
+{
+  "lesson": 34,
+  "title": "Improve Reliability with Advanced Features",
+  "application": "Reliable Request Wrapper",
+  "purpose": "Validate configuration, record structured stage events and retry only an explicitly transient failure.",
+  "exercise": "Run --fail-stage answer and verify two attempts are logged. Change max_attempts to 1 and inspect failure.json.",
+  "source_topics": [
+    "00-Flujos multiagente con Claude.png",
+    "01-Make-Configuration-Explicit.png",
+    "02-Log-Useful-Operational-Events.png",
+    "03-Handle-Failures-at-the-App-Boundary.png",
+    "04-Control-Tools-and-Recovery.png",
+    "05-Give-Users-Honest-Status-Messages.png",
+    "06-Monitor-and-Improve-the-System.png"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "lesson": 34,
+  "application": "Reliable Request Wrapper",
+  "mode": "offline_teaching_fixture",
+  "status": "complete",
+  "result": {
+    "answer": "tools determines availability; allowed_tools determines automatic permission.",
+    "attempts": 1
+  },
+  "measured_cost_usd": null
+}
